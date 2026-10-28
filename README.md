@@ -1,2 +1,5 @@
 # Olympic-Athlete-Performance-Dataset
 The Olympic Athlete Performance Dataset contains information about Olympic editions, host cities, years, sports, disciplines, athletes, NOC codes, gender, events, and medals won. It helps researchers analyse athlete achievements, identify performance trends, and explore the history of Olympic competitions.
+
+## Files:
+Dataset: Olympics.csv - The Olympic Athlete Performance Dataset contains comprehensive information about athletes' participation and achievements across various editions of the Olympic Games. It includes details such as the host city and year of each Olympic edition, sports, disciplines, participating athletes, National Olympic Committee (NOC) codes, athlete gender, specific events, event categories based on gender, and medals won (Gold, Silver, or Bronze). This dataset offers valuable insights into the diversity of Olympic sports and the accomplishments of athletes over time. It enables researchers and analysts to examine performance trends, identify patterns, and evaluate individual achievements, making it a useful resource for exploring the history and evolution of Olympic competitions.
